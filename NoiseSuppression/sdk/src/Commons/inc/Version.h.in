@@ -1,0 +1,3 @@
+#pragma  once
+#define SDK_COMMIT_INFO "@GIT_COMMIT_INFO@"
+#define SDK_VERSION "@SDK_VERSION@"
